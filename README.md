@@ -27,16 +27,3 @@
 1. 使用 Xcode 15+ 打開本專案
 2. 選擇模擬器或你的設備，執行 (⌘R)。
 3. 可直接於 SwiftUI Preview 查看主畫面效果。
-
-## 畫面截圖
-
-<img src="demo_screenshot.png" width="600" alt="Demo Screenshot" />
-
-## 聯絡與授權
-
-- 僅供學習/展示使用，內容資料皆為假資料。如需商用請自行替換成正式內容。
-- 聯絡方式：your-email@example.com
-
----
-
-歡迎 PR & 討論！
